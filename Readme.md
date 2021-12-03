@@ -1,5 +1,17 @@
 # Aufgabe 1 Erklaerung
 
+
+## Instalation
+Du kannst dieses Projekt ueber den gruenen Button mit der Aufschrift `Code` auf
+deinen Laptop laden. Anschliessend kannst du die ".zip" Datei entpacken und ein 
+Terminal in dem resultierenden Ordner [oeffnen](https://www.maketecheasier.com/launch-terminal-current-folder-mac/#:~:text=Open%20the%20parent%20directory%20where,shortcut%20that%20you%20assigned%20before.).
+
+Kopiere anschliessend diesen Befehl und fuehre ihn im Terminal aus. Er dient dazu
+dass Programm aus der Aufgabe laufen zu lassen.
+```bash
+./gradlew
+```
+
 ## Einfuehrung
 
 Der Code in der Uebungsaufgabe besteht aus 3 Klassen. `Value`, in dieser Speichern 
