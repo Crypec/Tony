@@ -1,7 +1,7 @@
 # Aufgabe 1 Erklaerung
 
 
-## Instalation
+## Installation
 Du kannst dieses Projekt ueber den gruenen Button mit der Aufschrift `Code` auf
 deinen Laptop laden. Anschliessend kannst du die ".zip" Datei entpacken und ein 
 Terminal in dem resultierenden Ordner [oeffnen](https://www.maketecheasier.com/launch-terminal-current-folder-mac/#:~:text=Open%20the%20parent%20directory%20where,shortcut%20that%20you%20assigned%20before.).
