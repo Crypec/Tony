@@ -9,7 +9,7 @@ Terminal in dem resultierenden Ordner [oeffnen](https://www.maketecheasier.com/l
 Kopiere anschliessend diesen Befehl und fuehre ihn im Terminal aus. Er dient dazu
 dass Programm aus der Aufgabe laufen zu lassen.
 ```bash
-./gradlew
+./gradlew run
 ```
 
 ## Einfuehrung
